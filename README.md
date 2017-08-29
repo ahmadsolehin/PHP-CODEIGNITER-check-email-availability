@@ -1,5 +1,5 @@
 # PHP-CODEIGNITER-check-email-availability
-
+how can we check email is available for registration or not by using Ajax with Jquery in Codeigniter framework.
 
 ## screenshot
 
